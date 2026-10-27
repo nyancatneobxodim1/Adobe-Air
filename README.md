@@ -225,4 +225,4 @@ Adobe AIR is available as a **full free version**, providing all features and up
 Unlock your potential in software development today by downloading Adobe AIR!
 
 ---
-**Last updated:** 2026-10-27 19:04:15 UTC
+**Last updated:** 2026-10-27 23:20:21 UTC
